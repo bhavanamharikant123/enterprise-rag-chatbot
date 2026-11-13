@@ -1,0 +1,14 @@
+# Backend API
+fastapi
+uvicorn[standard]
+
+# Frontend
+streamlit
+
+# Configuration
+pydantic-settings
+python-dotenv
+
+# Testing
+pytest
+httpx
