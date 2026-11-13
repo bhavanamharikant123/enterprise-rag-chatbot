@@ -56,6 +56,15 @@ documents and generates context-grounded answers using an LLM.
 ```bash
 python -m venv .venv
 ```
+
+## Running the Backend
+
+Start the FastAPI server:
+
+```bash
+uvicorn main:app --reload
+```
+
 ## Project Status
 
 Currently in Phase 1: Project Setup.

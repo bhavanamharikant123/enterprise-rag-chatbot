@@ -13,8 +13,13 @@
 - [x] Project folder structure
 - [x] Configuration files
 - [x] Initial dependency installation
-- [ ] Git initialization
-- [ ] Initial application verification
+- [x] Git initialization
+- [x] GitHub repository creation
+- [x] Initial commit and push
+- [x] Initial FastAPI application
+- [x] API endpoint verification
+- [x] Initial automated tests
+
 
 ## Next Phase
 
